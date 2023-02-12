@@ -1,0 +1,8 @@
+soundfile
+pygame
+pyworld
+gtts
+tempfile2
+pydub
+matplotlib
+tensorflow
